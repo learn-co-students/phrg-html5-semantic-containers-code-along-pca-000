@@ -170,4 +170,4 @@ merge the changes into your master branch. Type `git checkout master` and press
 return, then `git merge html5-layout` and press return. Then
 `git push origin master` and press return.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html5-semantic-containers-code-along' title='HTML5 Semantic Containers Code-along'>HTML5 Semantic Containers Code-along</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML5 Semantic Containers Code-along</p>
